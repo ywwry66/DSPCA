@@ -1,0 +1,17 @@
+Package: DSPCA
+Title: Dynamic Supervised Principle Component Analysis
+Version: 0.1.0
+Authors@R: c(
+    person("Wenbo", "Ouyang", role = "aut"),
+    person("Ruiyang", "Wu", , "ruiyang.wu@nyu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-7417-9507")),
+    person("Ning", "Hao", role = "aut"),
+    person("Hao Helen", "Zhang", role = "aut")
+  )
+Description: Dynamic Supervised Principle Component Analysis for
+    binary classification.
+License: BSD 3-Clause
+Encoding: UTF-8
+Language: en
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
