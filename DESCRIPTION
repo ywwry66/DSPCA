@@ -1,6 +1,6 @@
 Package: DSPCA
 Title: Dynamic Supervised Principle Component Analysis
-Version: 0.1.0
+Version: 0.1.0.9000
 Authors@R: c(
     person("Wenbo", "Ouyang", role = "aut"),
     person("Ruiyang", "Wu", , "ruiyang.wu@nyu.edu", role = c("aut", "cre"),
